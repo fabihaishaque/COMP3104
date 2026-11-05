@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "- Fabiha Ishaque - George Brown Polytechnic",
   "private": true,
-  "homepage": "https://fabihaishaque.github.io/COMP3104_DEVOPS/",
+  "homepage": "https://fabihaishaque.github.io/COMP3104/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -12,7 +12,6 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  
   "dependencies": {
     "@testing-library/dom": "^10.4.2",
     "@testing-library/jest-dom": "^6.9.1",
